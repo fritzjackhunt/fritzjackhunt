@@ -4,10 +4,10 @@ Tech guy. Programmer by education. Programmer by nature. Can be seen starting a 
 
 - 🔭 I’m currently working on projects that's going to contribute positively to people
 - 🌱 I’m currently learning web3.0
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: 
+- 👯 I’m looking to collaborate on any possible ideas
+- 🤔 I’m looking for help with hands-on resources to learn about web3.0 (i.e blockchains & smart contracts)
+- 💬 Ask me about memes
+- ⚡ Fun fact: A wanna be vegetarian
 - :mechanical_arm:  Motto: All I can, I will. 
 
 ## Technology Stack
